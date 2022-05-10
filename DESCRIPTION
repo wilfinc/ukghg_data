@@ -1,0 +1,11 @@
+Package: ukghgdata
+Type: Package
+Title: Data package for the UKGHG R package
+Version: 0.1.0
+Author: c(person("William", "Fincham", email="wilfinc@ceh.ac.uk", role = c("aut")),person("Peter", "Levy", email="plevy@ceh.ac.uk", role = c("cre")))
+Maintainer: William Fincham <wilfinc@ceh.ac.uk>
+Description: Data to support the UKGHG R package. This data is required by the UKGHG R package, this package removes the need to manually download this data from GitHub using piggyback() or similar. 
+License: MIT LICENSE
+Encoding: UTF-8
+LazyData: true
+URL: https://github.com/wilfinc/ukghgdata
